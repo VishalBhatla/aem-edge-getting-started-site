@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://localhost:8443/bin//franklin.delivery/vishalbhatla/aem-edge-getting-started/main"
+    url: "https://localhost:8443/bin/franklin.delivery/vishalbhatla/aem-edge-getting-started/main"
     type: "markup"
     suffix: ".html"
